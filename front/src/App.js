@@ -39,4 +39,11 @@ function App () {
 //   )
 // }
 
+//ejercicio 4 del 02 web server
+//Conectar front - back
+//Abre tu proyecto en la carpeta front para poder hacer un pequeño cambio.
+//Dentro del archivo app.js tienes una función llamada onSearch. La URL a la que le haces la petición es, 
+//https://rickandmortyapi.com/api/character/. Tienes que reemplazarla por esta nueva URL: http://localhost:3001/rickandmorty.
+//[NOTA]: recuerda agregar a la ruta el id.
+
 export default App;
